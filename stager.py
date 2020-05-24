@@ -1,3 +1,4 @@
+# this code can be used to download a file directly (from a website) to memory and run without anti-virus detection
 import requests
 #import os
 
